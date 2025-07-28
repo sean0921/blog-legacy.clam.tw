@@ -4,18 +4,18 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sean&#39;s Blog</title>
-    <link>https://blog.clam.ml/</link>
+    <link>https://blog-legacy.clam.tw/</link>
     
-    <atom:link href="https://blog.clam.ml/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://blog-legacy.clam.tw/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>New Blog site construted by Hexo (nodejs package)</description>
-    <pubDate>Wed, 12 Mar 2025 14:06:42 GMT</pubDate>
+    <description>Legacy Blog site construted by Hexo</description>
+    <pubDate>Mon, 28 Jul 2025 07:41:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>COSCUP 2025 社群徵稿啟動</title>
-      <link>https://blog.clam.ml/2025/03/12/coscup2025/</link>
-      <guid>https://blog.clam.ml/2025/03/12/coscup2025/</guid>
+      <link>https://blog-legacy.clam.tw/2025/03/12/coscup2025/</link>
+      <guid>https://blog-legacy.clam.tw/2025/03/12/coscup2025/</guid>
       <pubDate>Wed, 12 Mar 2025 14:05:11 GMT</pubDate>
       
         
@@ -29,17 +29,17 @@
       
       
       
-      <category domain="https://blog.clam.ml/tags/opensource/">opensource</category>
+      <category domain="https://blog-legacy.clam.tw/tags/opensource/">opensource</category>
       
       
-      <comments>https://blog.clam.ml/2025/03/12/coscup2025/#disqus_thread</comments>
+      <comments>https://blog-legacy.clam.tw/2025/03/12/coscup2025/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>在 Ubuntu 桌面中使用 Python 將檔案丟到資源回收桶</title>
-      <link>https://blog.clam.ml/2022/05/05/use-glib-gio-in-python3/</link>
-      <guid>https://blog.clam.ml/2022/05/05/use-glib-gio-in-python3/</guid>
+      <link>https://blog-legacy.clam.tw/2022/05/05/use-glib-gio-in-python3/</link>
+      <guid>https://blog-legacy.clam.tw/2022/05/05/use-glib-gio-in-python3/</guid>
       <pubDate>Thu, 05 May 2022 15:02:56 GMT</pubDate>
       
       <description>&lt;p&gt;假如你在 Ubuntu 使用 Python 進行資料處理，對於一些檔案懷抱著想移出視線又怕刪掉就回不去的情感，怎麼辦? 這篇文章介紹的工具與概念，或許可以提供你一個對於整合桌面環境更加友善的方向。&lt;/p&gt;</description>
@@ -50,33 +50,33 @@
       
       
       
-      <category domain="https://blog.clam.ml/tags/linux/">linux</category>
+      <category domain="https://blog-legacy.clam.tw/tags/linux/">linux</category>
       
-      <category domain="https://blog.clam.ml/tags/opensource/">opensource</category>
+      <category domain="https://blog-legacy.clam.tw/tags/opensource/">opensource</category>
       
-      <category domain="https://blog.clam.ml/tags/python/">python</category>
+      <category domain="https://blog-legacy.clam.tw/tags/python/">python</category>
       
-      <category domain="https://blog.clam.ml/tags/GLib/">GLib</category>
+      <category domain="https://blog-legacy.clam.tw/tags/GLib/">GLib</category>
       
-      <category domain="https://blog.clam.ml/tags/Gio/">Gio</category>
+      <category domain="https://blog-legacy.clam.tw/tags/Gio/">Gio</category>
       
-      <category domain="https://blog.clam.ml/tags/Gtk/">Gtk</category>
+      <category domain="https://blog-legacy.clam.tw/tags/Gtk/">Gtk</category>
       
-      <category domain="https://blog.clam.ml/tags/GNOME/">GNOME</category>
+      <category domain="https://blog-legacy.clam.tw/tags/GNOME/">GNOME</category>
       
-      <category domain="https://blog.clam.ml/tags/data-operation/">data operation</category>
+      <category domain="https://blog-legacy.clam.tw/tags/data-operation/">data operation</category>
       
-      <category domain="https://blog.clam.ml/tags/Ubuntu/">Ubuntu</category>
+      <category domain="https://blog-legacy.clam.tw/tags/Ubuntu/">Ubuntu</category>
       
       
-      <comments>https://blog.clam.ml/2022/05/05/use-glib-gio-in-python3/#disqus_thread</comments>
+      <comments>https://blog-legacy.clam.tw/2022/05/05/use-glib-gio-in-python3/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>如何在串流播放器使用 youtube-dl 的替代品 - 以 mpv 為例</title>
-      <link>https://blog.clam.ml/2021/10/16/mpv-ytdl-alternative/</link>
-      <guid>https://blog.clam.ml/2021/10/16/mpv-ytdl-alternative/</guid>
+      <link>https://blog-legacy.clam.tw/2021/10/16/mpv-ytdl-alternative/</link>
+      <guid>https://blog-legacy.clam.tw/2021/10/16/mpv-ytdl-alternative/</guid>
       <pubDate>Fri, 15 Oct 2021 21:19:42 GMT</pubDate>
       
       <description>&lt;p&gt;Youtube-dl 歷經了一連串 DMCA 爭議後一度被 GitHub 下架，後來雖然恢復，但開發能量已大不如前，也開始出現了各種替代方案來因應。本篇文章將以 mpv 影音播放器為例，介紹如何在該軟體 0.33 之後的版本快速替換 youtube-dl 外掛所使用的路徑。&lt;/p&gt;</description>
@@ -87,23 +87,23 @@
       
       
       
-      <category domain="https://blog.clam.ml/tags/youtube-dl/">youtube-dl</category>
+      <category domain="https://blog-legacy.clam.tw/tags/youtube-dl/">youtube-dl</category>
       
-      <category domain="https://blog.clam.ml/tags/mpv/">mpv</category>
+      <category domain="https://blog-legacy.clam.tw/tags/mpv/">mpv</category>
       
-      <category domain="https://blog.clam.ml/tags/yt-dlp/">yt-dlp</category>
+      <category domain="https://blog-legacy.clam.tw/tags/yt-dlp/">yt-dlp</category>
       
-      <category domain="https://blog.clam.ml/tags/video-streaming/">video-streaming</category>
+      <category domain="https://blog-legacy.clam.tw/tags/video-streaming/">video-streaming</category>
       
       
-      <comments>https://blog.clam.ml/2021/10/16/mpv-ytdl-alternative/#disqus_thread</comments>
+      <comments>https://blog-legacy.clam.tw/2021/10/16/mpv-ytdl-alternative/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Project CTPB 簡介</title>
-      <link>https://blog.clam.ml/2021/08/22/project-ctpb/</link>
-      <guid>https://blog.clam.ml/2021/08/22/project-ctpb/</guid>
+      <link>https://blog-legacy.clam.tw/2021/08/22/project-ctpb/</link>
+      <guid>https://blog-legacy.clam.tw/2021/08/22/project-ctpb/</guid>
       <pubDate>Sun, 22 Aug 2021 06:02:36 GMT</pubDate>
       
       <description>&lt;p&gt;在 2021 年，Linux 發行版等開源作業系統的普及率仍無法與 Microsoft Windows、Mac OS 等相比，但相關生態系與商業應用與 10 年前相比已有明顯成長，然而在 Linux 發行版的軟體安裝上，仍因為安裝方式不一，操作指令過於多樣，甚至多數商業軟體公司發行的開源/非開源套件是以「把所有用到函式庫都包在一起的方式」發行軟體，以方便忽視軟體相依性之問題，卻明顯違背了 Linux 發行版套件管理機制最初的用意。&lt;/p&gt;
@@ -115,23 +115,23 @@
       
       
       
-      <category domain="https://blog.clam.ml/tags/packaging/">packaging</category>
+      <category domain="https://blog-legacy.clam.tw/tags/packaging/">packaging</category>
       
-      <category domain="https://blog.clam.ml/tags/linux/">linux</category>
+      <category domain="https://blog-legacy.clam.tw/tags/linux/">linux</category>
       
-      <category domain="https://blog.clam.ml/tags/opensource/">opensource</category>
+      <category domain="https://blog-legacy.clam.tw/tags/opensource/">opensource</category>
       
-      <category domain="https://blog.clam.ml/tags/pj-ctpb/">pj-ctpb</category>
+      <category domain="https://blog-legacy.clam.tw/tags/pj-ctpb/">pj-ctpb</category>
       
       
-      <comments>https://blog.clam.ml/2021/08/22/project-ctpb/#disqus_thread</comments>
+      <comments>https://blog-legacy.clam.tw/2021/08/22/project-ctpb/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>在 SELinux 環境下建立發行版鏡像站需要處理的權限問題</title>
-      <link>https://blog.clam.ml/2021/07/25/rsync-tmp-file-under-selinux/</link>
-      <guid>https://blog.clam.ml/2021/07/25/rsync-tmp-file-under-selinux/</guid>
+      <link>https://blog-legacy.clam.tw/2021/07/25/rsync-tmp-file-under-selinux/</link>
+      <guid>https://blog-legacy.clam.tw/2021/07/25/rsync-tmp-file-under-selinux/</guid>
       <pubDate>Sun, 25 Jul 2021 10:34:20 GMT</pubDate>
       
       <description>&lt;p&gt;這篇筆記主要描述如何從 rsync 運作原理，來理解在 SELinux 啟用的情況下，如何正確設定 rsync 暫存區路徑參數與暫存目錄權限。rsync 接收同步資料時，會先將抓取未驗證的檔案放在暫存目錄，經校驗無誤後再移動到同步目的地。如果 rsync 設定 &lt;code&gt;--temp-file&lt;/code&gt; 目錄路徑的預設 context 與目的地目錄的不同，則會發生目的地出現檔案實際 context 與該路徑下預設內容不符的情況，進而造成服務讀取時發生權限錯誤問題。解決方法有二: 1. 將暫存目錄的 context 設定成和同步目的地的一樣。 2. 取消設置 &lt;code&gt;--temp-file&lt;/code&gt; 參數，此時未驗證的暫存檔就會存放在同步目的地所在的目錄底下。&lt;/p&gt;</description>
@@ -142,18 +142,18 @@
       
       
       
-      <category domain="https://blog.clam.ml/tags/linux/">linux</category>
+      <category domain="https://blog-legacy.clam.tw/tags/linux/">linux</category>
       
-      <category domain="https://blog.clam.ml/tags/sysadmin/">sysadmin</category>
+      <category domain="https://blog-legacy.clam.tw/tags/sysadmin/">sysadmin</category>
       
-      <category domain="https://blog.clam.ml/tags/rsync/">rsync</category>
+      <category domain="https://blog-legacy.clam.tw/tags/rsync/">rsync</category>
       
-      <category domain="https://blog.clam.ml/tags/selinux/">selinux</category>
+      <category domain="https://blog-legacy.clam.tw/tags/selinux/">selinux</category>
       
-      <category domain="https://blog.clam.ml/tags/mirroring/">mirroring</category>
+      <category domain="https://blog-legacy.clam.tw/tags/mirroring/">mirroring</category>
       
       
-      <comments>https://blog.clam.ml/2021/07/25/rsync-tmp-file-under-selinux/#disqus_thread</comments>
+      <comments>https://blog-legacy.clam.tw/2021/07/25/rsync-tmp-file-under-selinux/#disqus_thread</comments>
       
     </item>
     
